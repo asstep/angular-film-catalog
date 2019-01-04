@@ -1,0 +1,15 @@
+.mat-card {
+    padding-top: 0;
+}
+.mat-card-header {
+    background: #3f51b5;
+    color: #fff;
+    margin: 0 -24px;
+}
+img {
+    margin: auto;
+    max-width: 300px;
+}
+
+
+  div {color: red}
